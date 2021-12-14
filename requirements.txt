@@ -1,3 +1,4 @@
 gerrit-review-robot
-not-covered-lines
 pytest
+pylama[all]
+easy_exec

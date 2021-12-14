@@ -1,4 +1,6 @@
-report_not_covered_lines
+review_style_gerrit
 ========================
 
-Convert the test-coverage-result (saved in `.converage` to gerrit comments) while only including not covered lines in the current diff.
+Executes pylama and reports the result of the lines that are in 
+the current diff to gerrit.
+
